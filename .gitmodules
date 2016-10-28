@@ -4,6 +4,3 @@
 [submodule "laboratorio"]
 	path = laboratorio
 	url = git://github.com/wteophilo/poc_laboratorio.git
-[submodule "front_end"]
-	path = front_end
-	url = git://github.com/wteophilo/poc_front_angular.git
